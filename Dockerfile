@@ -1,3 +1,4 @@
+
 FROM squidfunk/mkdocs-material:9.0.9
 
 ENV MKDOCS_MONOREPO_REPO=https://github.com/PauloASilva/mkdocs-monorepo-plugin
